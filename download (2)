@@ -1,0 +1,7 @@
+.env
+node_modules/
+data/*.sqlite*
+uploads/avatars/*
+uploads/reports/*
+!uploads/avatars/.gitkeep
+!uploads/reports/.gitkeep
